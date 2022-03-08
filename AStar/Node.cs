@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace AStar
 {
-    class Program
+    class Node
     {
-        static void Main(string[] args)
-        {
-            
-        }
+        int Gcost;
+        int Hcost;
+        int Fcost;
+        Node Neighbour;
     }
 }

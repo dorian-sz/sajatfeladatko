@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace AStar
 {
-    class Program
+    class PriorityQueue
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
