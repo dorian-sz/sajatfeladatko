@@ -1,7 +1,0 @@
-C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe.config
-C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe
-C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStarAlgorithm\bin\Debug\AStarAlgorithm.pdb
-C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStarAlgorithm\obj\Debug\AStarAlgorithm.csproj.AssemblyReference.cache
-C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStarAlgorithm\obj\Debug\AStarAlgorithm.csproj.CoreCompileInputs.cache
-C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStarAlgorithm\obj\Debug\AStarAlgorithm.exe
-C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStarAlgorithm\obj\Debug\AStarAlgorithm.pdb

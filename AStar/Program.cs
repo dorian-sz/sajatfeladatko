@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AStarAlgorithm
+namespace AStar
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            Console.ReadKey();
         }
     }
 }

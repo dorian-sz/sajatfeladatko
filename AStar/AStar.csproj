@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D31CE407-F1AB-4C32-92A4-CC2B28164BC0}</ProjectGuid>
+    <ProjectGuid>{048A5F8B-1339-4678-A4C0-DDEAB6F20857}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AStarAlgorithm</RootNamespace>
-    <AssemblyName>AStarAlgorithm</AssemblyName>
+    <RootNamespace>AStar</RootNamespace>
+    <AssemblyName>AStar</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

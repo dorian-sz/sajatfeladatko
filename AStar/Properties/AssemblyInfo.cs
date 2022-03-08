@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AStarAlgorithm")]
+[assembly: AssemblyTitle("AStar")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AStarAlgorithm")]
+[assembly: AssemblyProduct("AStar")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d31ce407-f1ab-4c32-92a4-cc2b28164bc0")]
+[assembly: Guid("048a5f8b-1339-4678-a4c0-ddeab6f20857")]
 
 // Version information for an assembly consists of the following four values:
 //
