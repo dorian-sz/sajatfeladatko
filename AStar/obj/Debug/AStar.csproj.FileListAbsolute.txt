@@ -1,2 +1,7 @@
-C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\obj\Debug\AStar.csproj.AssemblyReference.cache
 C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\obj\Debug\AStar.csproj.AssemblyReference.cache
+C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\bin\Debug\AStar.exe.config
+C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\bin\Debug\AStar.exe
+C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\bin\Debug\AStar.pdb
+C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\obj\Debug\AStar.exe
+C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\obj\Debug\AStar.pdb

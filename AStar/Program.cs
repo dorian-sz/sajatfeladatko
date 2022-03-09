@@ -10,11 +10,27 @@ namespace AStar
     {
         static void Main(string[] args)
         {
-            Node A = new Node(B, "A");
-            Node B = new Node(A, "B");
+            //Create nodes and set a starting node and its their neighbours.
+            PriorityQueue queue = new PriorityQueue(6);
+
+            Node A = new Node("A");
+            Node B = new Node("B");
+            Node C = new Node("C");
+            Node D = new Node("D");
+            Node E = new Node("E");
+            Node F = new Node("F");
 
             A.SetStartingNode();
-            Console.WriteLine(B.GetGcost());
+            B.SetNeighbour(A);
+            C.SetNeighbour(A);
+            D.SetNeighbour(B);
+            E.SetNeighbour(D);
+            F.SetNeighbour(F);
+
+            queue.Insert(A);
+            Console.WriteLine(queue.Delete());
+
+            Console.ReadKey();
         }
     }
 }

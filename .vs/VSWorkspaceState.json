@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AStarAlgorithm"
+    "\\AStar"
   ],
-  "SelectedNode": "\\AStarAlgorithm\\AStarAlgorithm.csproj",
+  "SelectedNode": "\\AStar",
   "PreviewInSolutionExplorer": false
 }

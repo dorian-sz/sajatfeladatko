@@ -15,11 +15,18 @@ namespace AStar
         private bool IsStartingNode;
         private Node Neighbour;
 
-        public Node(Node Neighbour, string Name)
+        public Node(string Name)
         {
-            this.Neighbour = Neighbour;
             this.Name = Name;
             this.IsStartingNode = false;
+
+            
+        }
+        
+        public void SetNeighbour(Node neighbour)
+        {
+            this.Neighbour = neighbour;
+            this.Gcost = this.Neighbour.GetGcost() + 10;
         }
 
         public void SetStartingNode()
@@ -28,13 +35,24 @@ namespace AStar
             this.Gcost = 0;
         }
 
-        public void CalcGcost()
-        {
-            this.Gcost = this.Neighbour.GetGcost() + 10;
-        }
         public int GetGcost()
         {
             return this.Gcost;
+        }
+
+        public void SetHcost(int Hcost)
+        {
+            this.Hcost = Hcost;
+        }
+
+        public void SetFcost()
+        {
+            this.Fcost = this.Hcost + this.Gcost;
+        }
+
+        public int GetFcost()
+        {
+            return this.Fcost;
         }
     }
 }
