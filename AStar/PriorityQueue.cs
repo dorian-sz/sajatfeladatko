@@ -8,7 +8,7 @@ namespace AStar
 {
     class PriorityQueue
     {
-        private Object[,] Queue;
+        Dictionary<Node, int> Queue;
         private int qSize;
         private int index;
 
@@ -21,20 +21,11 @@ namespace AStar
 
         public void Insert(Node n)
         {
-            if (this.index != this.qSize)
-	        {
-                this.index++;
-                this.Queue[this.index, 0] = n;
-                this.Queue[this.index, 1] =  n.GetFcost();
-	        }
-            else
-            {
-                Console.WriteLine("Queue is full.");
-            }
+            Queue.Add(n, n.GetFcost());
 
         }
 
-        public Object[] Delete()
+        public Object[,] Delete()
         {
             return this.Queue[this.Queue.Length - 1, 0];
         }
