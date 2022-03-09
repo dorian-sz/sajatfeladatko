@@ -1,0 +1,2 @@
+C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\obj\Debug\AStar.csproj.AssemblyReference.cache
+C:\Users\2021302\Source\Repos\dorian-sz\sajatfeladatko\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
